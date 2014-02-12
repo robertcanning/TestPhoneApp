@@ -20,6 +20,13 @@ namespace PhoneAppForRemoteGit
 
             // Sample code to localize the ApplicationBar
             //BuildLocalizedApplicationBar();
+
+            change1();
+        }
+
+        private void change1()
+        {
+
         }
 
         // Sample code for building a localized ApplicationBar
